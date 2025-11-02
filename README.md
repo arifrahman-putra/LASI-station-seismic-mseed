@@ -124,5 +124,5 @@ The data is made available under MIT license.
 ## Contact
 
 For questions regarding this dataset, please contact:  
-1. First author (Arifrahman Yustika Putra): arifrahman.yustika31@ui.ac.id or arifrahman2703@gmail.com
+1. First author (Arifrahman Yustika Putra): arifrahmanputra01@gmail.com or arifrahman.yustika31@ui.ac.id
 2. Second and corresponding author (Adhi Harmoko Saputro): adhi@sci.ui.ac.id
